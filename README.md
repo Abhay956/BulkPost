@@ -13,7 +13,7 @@ A simple Python desktop app to send single or bulk emails via Gmail, with docume
 ```powershell
 git clone https://github.com/Abhay956/BulkPost.git
 cd BulkPost
-pip install -r requirements.txt
+py -m pip install -r requirements.txt
 python app.py
 ```
 
