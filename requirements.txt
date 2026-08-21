@@ -1,0 +1,4 @@
+openpyxl
+six
+pandas
+Pillow
