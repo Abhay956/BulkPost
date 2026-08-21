@@ -35,7 +35,6 @@ python3 app.py
 5. Click **Send**.
 <img width="1002" height="650" alt="image" src="https://github.com/user-attachments/assets/970347da-0a34-4572-96eb-bf92546ebb8a" />
 
-## Excel Format (Bulk Mode)
 
 ## Developer
 
