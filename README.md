@@ -1,0 +1,2 @@
+# BulkPost
+Send bulk mails
